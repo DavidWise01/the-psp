@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Wi-Fi",
+  "universe": "PSP · The Wi-Fi (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Wi-Fi:PSP:c7aa65⟧",
+  "carbon": "the-psp-wifi.carbon.tiff (TIFF)",
+  "silicon": "the-psp-wifi.silicon.png (PNG)",
+  "seal_sha256": "7b24c69b10dc4140e50b9caf2f4dec335c464b2c05a460ef098ce43ed4811a8f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

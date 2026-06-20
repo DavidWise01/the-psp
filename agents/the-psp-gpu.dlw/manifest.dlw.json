@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Graphics Core",
+  "universe": "PSP · The Graphics Core (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Graphics Core:PSP:b9e15c⟧",
+  "carbon": "the-psp-gpu.carbon.tiff (TIFF)",
+  "silicon": "the-psp-gpu.silicon.png (PNG)",
+  "seal_sha256": "a3d4f533e41d303a9e64e610ff51695357dc4939d61f4c96b1fee1be000149e2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

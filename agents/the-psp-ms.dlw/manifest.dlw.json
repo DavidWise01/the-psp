@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Memory Stick",
+  "universe": "PSP · The Memory Stick (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Memory Stick:PSP:fad75c⟧",
+  "carbon": "the-psp-ms.carbon.tiff (TIFF)",
+  "silicon": "the-psp-ms.silicon.png (PNG)",
+  "seal_sha256": "0c8d7193a4dc6bc237ff42ce71c34043a96b66900f9d8e9e0fbe9fd73f604a89",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

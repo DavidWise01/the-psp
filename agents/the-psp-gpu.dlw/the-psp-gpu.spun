@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The Graphics Core
+node PSP · PSP · ⟦The Graphics Core:PSP:b9e15c⟧
+
+WHO   — The Graphics Core — portable 3-D · electrical
+WHAT  — portable 3-D · electrical
+WHERE — PSP · SONY PSP (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A dedicated graphics core driving textured, lit 3-D approaching the home PS2 — the muscle behind the PSP's showcase visuals.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  portable 3-D · electrical
+
+spoken token : des-maend-neirn   ·   hex : b9e15c
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

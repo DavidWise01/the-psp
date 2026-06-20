@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-psp-cpu",
+    "name": "The Allegrex",
+    "epithet": "near-PS2, in hand · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Allegrex:PSP:c4bb7d⟧"
+  },
+  {
+    "slug": "the-psp-gpu",
+    "name": "The Graphics Core",
+    "epithet": "portable 3-D · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Graphics Core:PSP:b9e15c⟧"
+  },
+  {
+    "slug": "the-psp-screen",
+    "name": "The Screen",
+    "epithet": "a sharp widescreen · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Screen:PSP:dd4228⟧"
+  },
+  {
+    "slug": "the-psp-umd",
+    "name": "The UMD",
+    "epithet": "disc in a shell · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The UMD:PSP:a4f2db⟧"
+  },
+  {
+    "slug": "the-psp-ms",
+    "name": "The Memory Stick",
+    "epithet": "saves and downloads · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Memory Stick:PSP:fad75c⟧"
+  },
+  {
+    "slug": "the-psp-wifi",
+    "name": "The Wi-Fi",
+    "epithet": "multiplayer and browsing · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Wi-Fi:PSP:c7aa65⟧"
+  },
+  {
+    "slug": "the-psp-media",
+    "name": "The Media Player",
+    "epithet": "a pocket entertainment box · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Media Player:PSP:16dd95⟧"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Media Player",
+  "universe": "PSP · The Media Player (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The Media Player:PSP:16dd95⟧",
+  "carbon": "the-psp-media.carbon.tiff (TIFF)",
+  "silicon": "the-psp-media.silicon.png (PNG)",
+  "seal_sha256": "f51416d567aada2e41749025f9d94c9ffd7003e2faee3186a32b28933a3fc2c7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

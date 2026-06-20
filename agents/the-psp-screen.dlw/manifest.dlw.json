@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Screen",
+  "universe": "PSP · The Screen (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Screen:PSP:dd4228⟧",
+  "carbon": "the-psp-screen.carbon.tiff (TIFF)",
+  "silicon": "the-psp-screen.silicon.png (PNG)",
+  "seal_sha256": "f5a2394bb498f98f87100f34d5458cac108866228815197c747b800daf160f72",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

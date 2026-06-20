@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Allegrex",
+  "universe": "PSP · The Allegrex (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Allegrex:PSP:c4bb7d⟧",
+  "carbon": "the-psp-cpu.carbon.tiff (TIFF)",
+  "silicon": "the-psp-cpu.silicon.png (PNG)",
+  "seal_sha256": "935a9ce7b6886fbdff2002f1a3a84e822f2c976011d02ef701b0685959042792",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

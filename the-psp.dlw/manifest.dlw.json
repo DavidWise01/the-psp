@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "SONY PSP",
+  "universe": "PSP · SONY PSP (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦SONY PSP:PSP:cbe164⟧",
+  "carbon": "the-psp.carbon.tiff (TIFF)",
+  "silicon": "the-psp.silicon.png (PNG)",
+  "seal_sha256": "b92d0a5e15fbdc25907907def2bf5de22f23c607013f31fe79e3972a4913a6e6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
